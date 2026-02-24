@@ -1,20 +1,69 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Template API - Cloud Run Ready
 
-# Run and deploy your AI Studio app
+This project acts as a proxy between Google AI Studio (Tool Function)
+and your Google Apps Script JSON endpoint.
 
-This contains everything you need to run your app locally.
+## Apps Script URL Configured
 
-View your app in AI Studio: https://ai.studio/apps/3f04e67f-90e1-4e13-b5d0-1ea5e862e172
+https://script.google.com/macros/s/AKfycbxCQ7WwjmIH4YUnr0quWf97PlWC972eCHauPJPCEkoii320WZuiG4SyqKXIwTJtRRe2JQ/exec
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## Endpoints
 
+GET /health  
+GET /templates?sheet=Datos
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## Deploy to Cloud Run
+
+From this folder:
+
+```bash
+gcloud run deploy template-api \
+  --source . \
+  --region us-central1 \
+  --allow-unauthenticated
+```
+
+(Optional) If you want to set env var explicitly:
+
+```bash
+gcloud run deploy template-api \
+  --source . \
+  --region us-central1 \
+  --allow-unauthenticated \
+  --set-env-vars APPS_SCRIPT_URL="https://script.google.com/macros/s/AKfycbxCQ7WwjmIH4YUnr0quWf97PlWC972eCHauPJPCEkoii320WZuiG4SyqKXIwTJtRRe2JQ/exec"
+```
+
+---
+
+## Test After Deploy
+
+https://YOUR_CLOUD_RUN_URL/templates?sheet=Datos
+
+---
+
+## AI Studio Tool Config
+
+Function name: get_templates
+
+Schema:
+
+```json
+{
+  "type": "object",
+  "properties": {
+    "sheet": {
+      "type": "string"
+    }
+  }
+}
+```
+
+Map to:
+
+GET https://YOUR_CLOUD_RUN_URL/templates?sheet={sheet}
+
+Done.
