@@ -1,0 +1,432 @@
+[
+  {
+    "Plantillas": "poli0309_pago50amoryamistadprevir",
+    "formato": "CAROUSEL",
+    "texto": "¿Hola, {{1}}, cómo estás? Soy Sofía del Poli.\n \n En septiembre vuelve a encender esa llama 🔥💘 por estudiar una carrera virtual y finánciala fácil. Paga el *50%* de tu matrícula ahora y el *50%* restante hasta noviembre, 💰 sin intereses o créditos adicionales.\n \n Escríbeme 👇🏽 para ayudarte con tu proceso de inscripción.",
+    "Boton 1": "Hablar con un asesor",
+    "Boton 2": "Hablar con asesor",
+    "Área": "Admisiones",
+    "Temática": "Opciones de financiación",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli0210_fincanciaprevircarrusel",
+    "formato": "CAROUSEL",
+    "texto": "¡Hola {{1}}! ¿Cómo estás? Soy Susan del área de matrículas. \n \n Financiar tu carrera es casi tan fácil como leer este WhatsApp. 🎓 \n \n Así es, y no estoy exagerando: en el Poli puedes estudiar la carrera virtual que tanto quieres de esta forma. Lo mejor: tú eliges desde dónde conectarte a tus clases. 🌍💻",
+    "Boton 1": "Habla con un asesor",
+    "Boton 2": "Hablar con un asesor",
+    "Área": "Admisiones",
+    "Temática": "Opciones de financiación",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli5257_nointeraccion_rmk_incidencia_preg_generico",
+    "formato": "TEXT",
+    "texto": "¡Hola, {{1}}! 👋\n \n Continúa con tu proceso de inscripción para cumplir tu meta de estudiar tu pregrado.\n \n Si tienes dudas puedes:\n \n 🏛Volver a revisar nuestra oferta académica y encontrar el programa que deseas.\n 💰Revisar todas las opciones de financiación y métodos de pago que ofrece el Poli\n 👉Chatear con un asesor en caso de que tengas dudas sobre tu proceso.\n \n Danos tu respuesta aquí👇",
+    "Boton 1": "Hablar con asesor",
+    "Boton 2": "Oferta Académica",
+    "Área": "Admisiones",
+    "Temática": "Proceso de matrícula",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli4335_rmkt_inscripcionesrmkt",
+    "formato": "TEXT",
+    "texto": "¡Hola, {{1}}! Soy Sofía, líder de matrículas del Poli.\n \n ¿Estás listo para comenzar tu carrera en modalidad presencial? 🎓\n \n Tienes más de *50 programas* para elegir, con opciones de financiamiento flexibles para que estudies sin preocupaciones. 💰\n \n Si ya decidiste qué estudiar, *inscríbete aquí *👇🏽. Si aún tienes dudas, ¡escríbeme y con gusto te ayudaré!",
+    "Boton 1": "Quiero chatear.",
+    "Boton 2": "Ir a inscripciones.",
+    "Área": "Admisiones",
+    "Temática": "General / Branding",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli2304_diferencialessinregistropregrado",
+    "formato": "TEXT",
+    "texto": "¡Hola, {{1}}! Soy Sofía, líder de matrículas del Poli.\n \n ¿Estás listo para estudiar 🧑🏽‍🎓una carrera este 2025? \n \n Tienes más de 90 programas tanto presenciales como virtuales para elegir, que puedes financiar fácilmente con nosotros. 💰\n \n Si ya sabes qué quieres estudiar, 👇🏽 inscríbete aquí. Si tienes dudas, ¡escríbeme y con gusto te ayudaré!",
+    "Boton 1": "Quiero chatear",
+    "Boton 2": "Ir a inscripciones",
+    "Área": "Admisiones",
+    "Temática": "Opciones de financiación",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli4805_financiaciondirectapoli",
+    "formato": "TEXT",
+    "texto": "¡Hola, {{1}}! 👋\n \n ✨¡Tenemos muy buenas noticias!✨ Ahora puedes financiar tus estudios directamente con nosotros este semestre.🤩\n \n No necesitas estudios de crédito ni codeudores para iniciar tus clases en {{2}} con materias de segundo bloque.\n \n ¿Te interesa? ¡Contáctanos!👇",
+    "Boton 1": "Me interesa",
+    "Boton 2": "NO Aplica",
+    "Área": "Admisiones",
+    "Temática": "Opciones de financiación",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli9160_financiaciondirecta_conelpoli",
+    "formato": "TEXT",
+    "texto": "¡Hola, {{1}}! 👋\n \n ¿Sabías que con el Poli puedes financiar tu carrera directamente con nosotros? 🤔 Sin intereses, ni estudio de crédito, ni codeudores, para que inicies clases en {{2}} en el segundo bloque.\n \n 🔹Puedes financiar el 50 % de tu matrícula o el 50 % de media matrícula.\n \n Si te interesa o si tienes dudas, contáctanos por este medio.👇☎️",
+    "Boton 1": "Contáctanos",
+    "Boton 2": "NO Aplica",
+    "Área": "Admisiones",
+    "Temática": "Opciones de financiación",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli2805_rmkt_beneficiosposgrados",
+    "formato": "TEXT",
+    "texto": "¡Hola, {{1}}! 🎉 En el Poli, creemos en impulsar tu carrera a niveles extraordinarios. \n \n Nuestra oferta de posgrados no solo enriquece tu conocimiento, sino que también eleva tu perfil profesional con ventajas como créditos educativos y planes de doble titulación. \n \n ¿Te gustaría conocer cómo podemos ayudarte a alcanzar tus metas? 💪✨",
+    "Boton 1": "Hablar con asesor",
+    "Boton 2": "Inscríbete aquí",
+    "Área": "Admisiones",
+    "Temática": "Opciones de financiación",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli4335_rmkt_pagogenerico50",
+    "formato": "TEXT",
+    "texto": "¡Hola, {{1}} Soy Ángela, tu asesora financiera en el Poli. \n \n En el Poli te ayudaremos a cumplir tu propósito de estudiar una carrera profesional, finánciala fácil y sin complicaciones: *paga el 50% de tu matrícula ahora y el 50% restante una semana antes de iniciar clases*. y empieza a estudia con nosotros este 2025.\n \n  Si quieres saber más… Solo escribe aquí 👇🏽",
+    "Boton 1": "Hablar ahora",
+    "Boton 2": "NO Aplica",
+    "Área": "Admisiones",
+    "Temática": "General / Branding",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "polip17_006_rmktincidenciachat_opc1",
+    "formato": "TEXT",
+    "texto": "¡Hola, {{1}}! 👋\n \n ¡Retomemos tu proceso de inscripción! Pronto podrás iniciar tu pregrado en el Poli. 🧑‍🎓\n \n 💡Refresca tu memoria explorando nuestra oferta académica\n 💰¿No sabes cómo financiar tus estudios? Conoce todas nuestras opciones\n 🤔Si tienes dudas, habla con uno de nuestros asesores\n \n Elige una opción aquí👇",
+    "Boton 1": "Contáctanos",
+    "Boton 2": "Oferta académica",
+    "Área": "Admisiones",
+    "Temática": "Opciones de financiación",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "polio24_006_aliviosprevir_opc2",
+    "formato": "TEXT",
+    "texto": "¡Hola {{1}}!\n \n Sabemos que ni las fronteras, ni los horarios pueden detenerte para hacer la diferencia. 🌎\n \n Así que queremos darte un súper beneficio financiero para que inicies tu Pregrado Virtual en el Poli.\n \n Si te interesa, respóndenos aquí 👇 y uno de nuestros asesores te lo contará todo.",
+    "Boton 1": "Me interesa",
+    "Boton 2": "No me interesa",
+    "Área": "Admisiones",
+    "Temática": "Promoción comercial",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli4465_descuento_financiacion_madu",
+    "formato": "TEXT",
+    "texto": "¡Hola, {{1}}! 👋\n \n *¡Estás destinado a ser un gran profesional, por eso tienes este gran descuento! * 💪🏼\n \n Aprovecha esta semana y por tiempo ⏰ limitado hasta de un {{2}} descuento en la carrera que decidas estudiar en el Poli.\n \n Estamos aquí para ayudarte a cumplir tus metas y sueños de avanzar profesionalmente, con diferentes métodos de financiación y siempre con el acompañamiento de un asesor Poli.\n \n Conoce aquí cómo financiar tu carrera, o habla con tu asesor. 👇🏼👨🏼‍🚀 \n \n Somos diferentes, somos Poli. Somos país",
+    "Boton 1": "Ver financiación",
+    "Boton 2": "Hablemos aquí",
+    "Área": "Admisiones",
+    "Temática": "Opciones de financiación",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli4507fase_4_canales_poli5202_001",
+    "formato": "MEDIA",
+    "texto": "Hola {{1}}, 🙌🏽\n \n 🔊Construye tu futuro profesional en la *UNIVERSIDAD* con \n *EXCELENCIA EN CALIDAD ACADÉMICA* y más de 40 años de experiencia en Educación Superior. 🏗️\n \n Descubre aquí ☝️ porqué somos una de las mejores opciones para empezar tu carrera. \n \n También puedes elegir la opción que quieras 👇 y descubrir nuestros métodos de financiación o nuestra oferta académica.\n \n Somos Diferentes,\n Somos Poli.\n Somos País.",
+    "Boton 1": "Financiación",
+    "Boton 2": "Oferta académica",
+    "Área": "Admisiones",
+    "Temática": "Información institucional",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli5202_001_flujo_automation_potenciales_opc1",
+    "formato": "MEDIA",
+    "texto": "{{1}}, el mundo necesita más inconformes que creen nuevos caminos 🌎, por eso en el Poli tienes todo para hacer la diferencia.\n \n Conoce aquí ☝️ por qué somos la mejor opción para ti y tu futuro profesional.\n \n También puedes elegir la opción que quieras 👇 y descubrir nuestros métodos de financiación o nuestra oferta académica.",
+    "Boton 1": "Financiación",
+    "Boton 2": "Oferta Académica",
+    "Área": "Admisiones",
+    "Temática": "General / Branding",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli1869_recordfechafinan",
+    "formato": "TEXT",
+    "texto": "Hola, {{1}} 👋\n \n 🤩 Sabemos que ya cuentas con el recibo de pago de tu matrícula. Cuéntanos, ¿necesitas ayuda con el resto del proceso? 🤔\n \n Tienes hasta el {{2}} para realizar el pago de tu matrícula con\n valor {{3}}\n \n 💰 Recuerda que en el Poli tenemos varias opciones de financiación y métodos de pago que pueden ayudar, para que cumplas tus metas. https://www.poli.edu.co/financiacion\n \n Si tienes dudas, puedes escribirnos por aquí mismo. 👇",
+    "Boton 1": "Genera recibo o paga",
+    "Boton 2": "Inscribe asignaturas",
+    "Área": "Admisiones",
+    "Temática": "Proceso de matrícula",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli3983_007_admipush_na_estandar_generico",
+    "formato": "TEXT",
+    "texto": "¡{{1}}, tu próximo ascenso está más cerca que nunca. 📈\n \n Termina tu proceso de matrícula desde aquí 📲 y prepárate para llevar tu carrera profesional a lo más alto en el Poli. 🎓\n \n Acá puedes descargar tu Orden de Pago, conocer nuestras opciones de financiación o despejar tus dudas con nuestros asesores. \n \n Elige la opción que prefieras e inicia tu Posgrado Virtual. 👇",
+    "Boton 1": "Descarga tu Orden",
+    "Boton 2": "Financiación",
+    "Área": "Admisiones",
+    "Temática": "Proceso de matrícula",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli5257_nointeraccion_rmk_incidencia",
+    "formato": "TEXT",
+    "texto": "¡Hola, {{1}}! 👋\n \n Continúa con tu proceso de inscripción para cumplir tu meta de estudiar un posgrado virtual.\n \n Si tienes dudas puedes:\n \n 🏛Volver a revisar nuestra oferta académica y encontrar el posgrado que deseas.\n 💰Revisar todas las opciones de financiación y métodos de pago que ofrece el Poli\n ☎️Hablar con un asesor en caso de que tengas dudas sobre tu proceso.\n \n Danos tu respuesta aquí👇",
+    "Boton 1": "Oferta académica",
+    "Boton 2": "Financiación",
+    "Área": "Admisiones",
+    "Temática": "Proceso de matrícula",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "polio43_007_potencialespregpres_opc2",
+    "formato": "TEXT",
+    "texto": "👋 {{1}}, en el Poli te preparamos para situaciones reales a través de retos y proyectos conectados con las tendencias de cada profesión. 🙋🙋‍♀️\n \n Pero también vamos más allá de los salones y te ofrecemos experiencias diferentes. ¡Descúbrelas! {{2}}\n \n Prepárate para alcanzar tus metas y déjanos mostrarte nuestra oferta de Pregrados Presenciales o las opciones de financiación. 👇",
+    "Boton 1": "Oferta de programas",
+    "Boton 2": "Financiación",
+    "Área": "Admisiones",
+    "Temática": "Información institucional",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "polin31_007_financiacionpdf_opc4",
+    "formato": "MEDIA",
+    "texto": "{{1}}\n \n ¿Buscas convertirte en un líder de tu industria?\n \n Pues en el Poli tienes más opciones para alcanzar el crecimiento profesional.\n \n Elige el método de financiación que más se adapte a ti y haz la diferencia 🏦. ¡Descúbrelos aquí!",
+    "Boton 1": "No tiene boton",
+    "Boton 2": "NO Aplica",
+    "Área": "Admisiones",
+    "Temática": "General / Branding",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli9529_opcfinanciacion_002",
+    "formato": "TEXT",
+    "texto": "¡Hola, {{1}}! 👋\n \n En el Poli puedes estudiar la carrera que te apasiona gracias a todas las opciones de financiamiento que ofrecemos. 💵\n Conócelas aquí {{2}}\n \n También puedes escribirnos por este chat y te contaremos de todos nuestros beneficios.👇",
+    "Boton 1": "No tiene boton",
+    "Boton 2": "NO Aplica",
+    "Área": "Admisiones",
+    "Temática": "Promoción comercial",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli0481_34_insc_maximos",
+    "formato": "MEDIA",
+    "texto": "💙 🛜 Hola {{1}}, con Susan del Poli, ¿cómo estás?\n \n No te estamos rastreando ni nada parecido 😅,👉 👈 pero sabemos que estuviste interesado en estudiar en el Poli y quiero ayudarte a dar el siguiente paso en tu proceso de inscripción 🥲.\n \n Cuéntame:\n - ¿Tienes dudas con tu documentación?\n - ¿Inquietudes sobre la matrícula?\n - ¿Buscas opciones para financiar tu carrera?\n \n Hablemos, tengo la respuesta para todo. 👇",
+    "Boton 1": "Hablar con asesor",
+    "Boton 2": "NO Aplica",
+    "Área": "Admisiones",
+    "Temática": "Opciones de financiación",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "polin31_007_financiacionpdf_opc3",
+    "formato": "TEXT",
+    "texto": "{{1}}\n \n ¿Buscas convertirte en un líder de tu industria?\n \n Pues en el Poli tienes más opciones para alcanzar el crecimiento profesional.\n \n Elige el método de financiación que más se adapte a ti y haz la diferencia 🏦. ¡Descúbrelos aquí!",
+    "Boton 1": "No tiene boton",
+    "Boton 2": "NO Aplica",
+    "Área": "Admisiones",
+    "Temática": "General / Branding",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "polin31_007_financiacionpdf_opc2",
+    "formato": "MEDIA",
+    "texto": "Hola {{1}}\n \n ¿Sabías que en el Poli tienes varias opciones para alcanzar el crecimiento profesional?👩‍💼️👨‍💼️\n \n Conoce los diferentes métodos de financiación que tenemos para ti.🏦\n \n ¡Somos diferentes, somos Poli!",
+    "Boton 1": "No tiene boton",
+    "Boton 2": "NO Aplica",
+    "Área": "Admisiones",
+    "Temática": "General / Branding",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli0481_42_admi_contactadosnoabrioemail",
+    "formato": "CAROUSEL",
+    "texto": "¡Sabemos lo que pasó con el correo anterior! 😉 Lo entendemos, seguramente se perdió entre tantos mensajes o llegó a spam 🤯🥲.\n \n En ese correo dabas el paso más importante: generar tu recibo de pago. Pero no te preocupes, aún estás a tiempo.\n Si tienes dudas, aquí te cuento más en este video: (Ver video). Y si tu inquietud es de cómo financiar tu carrera, hazlo así:",
+    "Boton 1": "Hablar con asesor",
+    "Boton 2": "Financiar mi carrera",
+    "Área": "Admisiones",
+    "Temática": "Opciones de financiación",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli0481_43_admi_nocontactados",
+    "formato": "MEDIA",
+    "texto": "🅿️🎓 ¡Hola {{1}}! Soy Angie del Poli.\n \n 💙 ¡Qué emoción saber que estás tan cerca de comenzar tu carrera en una U diferente, y que construye país! Muy bien, ya llevas un 60% del camino recorrido. 👏🏼👏🏼\n \n El Director de tu programa está muy entusiasmado por conocerte y te está esperando. \n \n Si tienes dudas sobre:\n \n 📃 La documentación que necesitas.\n 📂 El proceso de inscripción.\n 💰 O los métodos de financiación.\n 👉 Escríbeme en cualquier momento, estoy aquí para ayudarte.",
+    "Boton 1": "Hablar con asesor",
+    "Boton 2": "Continuar mi inscripción",
+    "Área": "Admisiones",
+    "Temática": "Proceso de matrícula",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli9555_003_recordacion_recibo_pago_opc1",
+    "formato": "TEXT",
+    "texto": "Hola, {{1}} 👋\n \n 🤩 Sabemos que ya cuentas con el recibo de pago de tu matrícula. Cuéntanos, ¿necesitas ayuda con el resto del proceso? 🤔\n \n Tienes hasta el {{2}} para descargar tu orden de pago en este enlace {{3}} 📎📱.\n \n 💰 Recuerda que en el Poli tenemos varias opciones de financiación y métodos de pago que pueden ayudar, para que cumplas tus metas. https://www.poli.edu.co/financiacion\n \n Si tienes dudas, puedes escribirnos por aquí mismo. 👇",
+    "Boton 1": "Me interesa",
+    "Boton 2": "NO Aplica",
+    "Área": "Admisiones",
+    "Temática": "Proceso de matrícula",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli0481_44_admi_abrionocontactados",
+    "formato": "MEDIA",
+    "texto": "💙 ¡Hola {{1}}! Soy Angie del Poli.\n \n Te escribo porque vi que alcanzaste a leer mi mensaje anterior 😊 y no quiero que te quedes sin dar ese paso para empezar tu carrera.\n Ya estás a un pasito de hacerlo realidad. Si quieres, te acompaño para generar tu desprendible de pago y te cuento la mejor opción de financiación para ti.\n \n En el Poli, todos estamos muy pendientes de tu proceso 😉\n \n 📩 Escríbeme cuando puedas, estoy súper pendiente de ti.",
+    "Boton 1": "Hablar con asesor",
+    "Boton 2": "Realizar pago",
+    "Área": "Admisiones",
+    "Temática": "Proceso de matrícula",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli0481_45_admi_noabrionocontactados",
+    "formato": "TEXT",
+    "texto": "🅿️🚹 ¡Hola {{1}}! Soy Angie del Poli, ¿Cómo estás?\n \n ¡El universo quiere que estudies en el Poli, nosotros queremos que estudies en el Poli y el director de tu programa también está muy pendiente de ti! ✨ Por eso te he estado buscando 🙌 para ayudarte a cerrar tu matrícula, puedo guiarte paso a paso para generar tu desprendible de pago 🆙💰 y contarte cuál es la mejor opción de financiación para ti.\n \n 📩 Escríbeme en cualquier momento.",
+    "Boton 1": "Hablar con asesor",
+    "Boton 2": "Realizar mi pago",
+    "Área": "Admisiones",
+    "Temática": "General / Branding",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli0481_46_admi_maximos",
+    "formato": "TEXT",
+    "texto": "🅿️🚹 ¡Hola {{1}}! Soy Angie del Poli, ¿Cómo estás?\n \n 🌟¡Todo apunta a que tu lugar está en el Poli! Nosotros queremos verte aquí… y el director de tu programa también te tiene en el radar.\n \n Para verte pronto, solo te falta un paso: generar tu desprendible de pago y realizarlo. Puedo guiarte paso a paso 🆙💰 y mostrarte la mejor opción de financiación para ti.\n \n 📩 Escríbeme ahora, estoy lista para ayudarte.",
+    "Boton 1": "Realizar pago",
+    "Boton 2": "NO Aplica",
+    "Área": "Admisiones",
+    "Temática": "General / Branding",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli1647_05_prospecto_programadosutil_positivo",
+    "formato": "TEXT",
+    "texto": "Hola, ¿cómo estás? Soy Nathalia, tu asesora de admisiones en el Poli. 🤝\n \n Hoy quiero ayudarte a que continúes con tu proceso en la carrera que deseas estudiar.\n \n Si aún tienes dudas sobre algún programa, cómo financiarlo con nosotros, auxilios financieros y convenios educativos, no dudes en escribirme. 🤳🏼Estoy aquí para responder cualquier pregunta que tengas.",
+    "Boton 1": "No tiene boton",
+    "Boton 2": "NO Aplica",
+    "Área": "Admisiones",
+    "Temática": "Opciones de financiación",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli0303_03_contactados_no_avanzo_en_funnel",
+    "formato": "TEXT",
+    "texto": "¡Hola, {{1}}! Soy Julián, tu asesor del área de matrículas en el Poli. 💪🏼\n \n He intentando contactarte, 📞💬 pero no he tenido suerte. Hoy quiero ofrecerte mi ayuda para completar el registro de la carrera que sueñas.\n \n Puedo guiarte fácilmente aquí por WhatsApp; o puedes seguir tú mismo con el proceso y conocer cómo financiar tu carrera. Solo dime: 👇🏼\n \n No dudes en contactarme.",
+    "Boton 1": "Sí, hablemos ahora",
+    "Boton 2": "Financiar carrera",
+    "Área": "Admisiones",
+    "Temática": "Opciones de financiación",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli2552_01_hsm__financiacionmadu",
+    "formato": "TEXT",
+    "texto": "¡Hola, {{1}}! Te escribe {{2}}, asesor líder de matrículas en el Poli. 👋\n \n Quiero contarte que *tienes una BECA para tu primer semestre hasta del {{3}}%* para que sigas adelante con tu sueño de estudiar lo que quieres. 👨🏼‍🎓👩🏽‍💻\n  \n Ingresa aquí, 👇🏼 y conoce nuestros métodos de financiación para tu matrícula. \n \n 📆 Recuerda, válido hasta {{4}}. \n _Somos diferentes, somos Poli. Somos país._",
+    "Boton 1": "¡Conócelos ahora!",
+    "Boton 2": "NO Aplica",
+    "Área": "Admisiones",
+    "Temática": "General / Branding",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli2552_crear_dos_plantillas_hsm_con_botones_a_financiacinmadu",
+    "formato": "TEXT",
+    "texto": "\"¡Hola, {{1}}! Te escribe {{2}}, asesor líder de matrículas en el Poli.👋\n \n Quiero contarte que *tienes una BECA para tu primer semestre hasta del {{3}}%* para que sigas adelante con tu sueño de estudiar lo que quieres. 👨🏼‍🎓👩🏽‍💻\n  \n Ingresa aquí, 👇🏼 y conoce nuestros métodos de financiación para tu matrícula. \n \n 📆 Recuerda, válido hasta {{4}}. \n Somos diferentes, somos Poli. Somos país.",
+    "Boton 1": "¡Conócelos ahora!",
+    "Boton 2": "NO Aplica",
+    "Área": "Admisiones",
+    "Temática": "General / Branding",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli4507fase_4_canales_polik76_002",
+    "formato": "TEXT",
+    "texto": "¡Hola, {{1}}! 👋\n *¡Queremos que seas parte de los profesionales que construyen país junto al Poli!*\n \n Por eso tenemos grandes noticias sobre tu interés de estudiar, con nosotros. \n \n Para que logres tus objetivos académicos, cuentas con diferentes métodos de financiación y beneficios Poli para ti, déjanos contártelos. 👂🏼 *Te podemos ayudar en tu proceso de admisión desde este chat*, 💬 o si prefieres, tú puedes hacerlo desde aquí:\n https://www.poli.edu.co/content/proceso-de-admision.\n \n ¡Escríbenos para ayudarte!\n \n Somos Diferentes,\n Somos Poli.\n Somos País.",
+    "Boton 1": "No tiene boton",
+    "Boton 2": "NO Aplica",
+    "Área": "Admisiones",
+    "Temática": "Promoción comercial",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli6206_tutranquilocredipoli",
+    "formato": "CAROUSEL",
+    "texto": "¡Hola, {{1}}! Soy Juan, tu DT financiero Poli. \n \n Quiero contarte que, en la institución líder en virtualidad y Marca País, siempre tenemos la 10 puesta y la cinta de capitán para apoyarte en tu camino hacia un título profesional. 🎓 \n Queremos que ganes este partido; por eso, aquí te mostramos el plan de juego para financiar tu carrera fácilmente.\n \n ¡Desliza la imagen y descubre más! ⬆️➡️",
+    "Boton 1": "Hablar con asesor",
+    "Boton 2": "Financiar mi carrera",
+    "Área": "Admisiones",
+    "Temática": "Opciones de financiación",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli6206_nuevasformasdepagopoli",
+    "formato": "CAROUSEL",
+    "texto": "¡Hola, {{1}}! ⚽ Estás en la jugada clave para cambiar el marcador de tu futuro profesional. \n \n Así es, este es el momento de tomar la decisión definitiva: elige una carrera en el Poli, asegura tu lugar y estudia en un campus 100% virtual desde cualquier rincón de Colombia. 🌏 Lo mejor es que tienes a tu disposición al mejor equipo financiero para ayudarte a pagar tu matrícula.",
+    "Boton 1": "Hablar con asesor",
+    "Boton 2": "NO Aplica",
+    "Área": "Admisiones",
+    "Temática": "General / Branding",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli1007_pushfinanzas",
+    "formato": "TEXT",
+    "texto": "¡Hola, {{1}}! 📊\n \n Estoy emocionado de contarte que el Poli tiene una oferta imperdible para tu carrera de Finanzas: ahora tienes un *25%* de descuento en tu matrícula. 📉\n \n Esto significa que tu inversión baja de *$5.457.000* a *$4.092.750*.\n Una oportunidad única para convertirte en un experto en gestión financiera. 💼\n \n ¿Quieres más detalles? Estoy aquí para ayudarte. 👐",
+    "Boton 1": "Solicita tu Alivio",
+    "Boton 2": "Inscríbete aquí",
+    "Área": "Admisiones",
+    "Temática": "Promoción comercial",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli1553_2_sub_caja_comp_fam_bar",
+    "formato": "TEXT",
+    "texto": "¡Hola, {{1}} ! 👋\n \n 🤔 Si aún no sabes cómo financiar la carrera que amas y vives en Barranquilla, esta es la oportunidad perfecta para ti.\n \n 🤑 Solicita tu subsidio universitario en las cajas de compensación *Comfamiliar, Cajacopi y Combarranquilla* y logra a cumplir tu meta de ser profesional.🎓\n \n Acércate a nuestro Centro de Servicio Universitario o contáctanos para saber más de esta oportunidad y de nuestra oferta académica:\n \n 🏛️ *CSU:* Calle 76 #46-39\n ☎️ *Teléfonos:* 310 2289752 / 317 5108315 / 313 4771556.",
+    "Boton 1": "No tiene boton",
+    "Boton 2": "NO Aplica",
+    "Área": "Admisiones",
+    "Temática": "Opciones de financiación",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli9529_001_opcfinanciacion_001",
+    "formato": "TEXT",
+    "texto": "¡Hola! 👋\n \n {{1}}, ¿buscas opciones de financiamiento para tus estudios en el Poli?\n \n ¡Conoce aquí todas las opciones que el Poli tiene para financiar tus estudios y cumplir tus metas! {{2}}\n \n También puedes hablarnos por este chat y te contaremos más.👇",
+    "Boton 1": "No tiene boton",
+    "Boton 2": "NO Aplica",
+    "Área": "Admisiones",
+    "Temática": "Opciones de financiación",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli1402_invitacioncampuspospre",
+    "formato": "TEXT",
+    "texto": "🅿️🚹 Hola {{1}}. Soy Julián, tu asesor Poli. 👋\n Si quieres avanzar y crecer estudiando uno de nuestros + 10 posgrados presenciales esta es tu oportunidad, porque:\n 1. Tienes flexibilidad académica: estudia 2-3 veces por semana.\n 2. Cuentas con diferentes métodos de financiación.\n \n Descubre en el video {{2}} todas las oportunidades que te esperan. Además puedes visitarnos en el City Campus Poli (Cll. 61 # 7-69, Chapinero), de lunes a viernes, de 9 a. m. a 5 p. m. ¡Te esperamos!\n Escríbeme, hablemos de tu posgrado.👇",
+    "Boton 1": "Hablar con asesor",
+    "Boton 2": "NO Aplica",
+    "Área": "Admisiones",
+    "Temática": "Promoción comercial",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli1512_rmkt_financiacionprepre",
+    "formato": "CAROUSEL",
+    "texto": "¡Hola {{1}} ! Así de fácil es financiar tu matrícula.\n \n Con esta forma de pago, puedes matricularte en uno de los más de *30 programas Poli* y graduarte en solo 8 o 10 semestres. Lo mejor, algunos cuentan con Acreditación de Alta Calidad. Te contamos cómo:\n \n Escríbeme y te cuento sobre nuestros métodos de financiación.",
+    "Boton 1": "Hablar con asesor",
+    "Boton 2": "NO Aplica",
+    "Área": "Admisiones",
+    "Temática": "Opciones de financiación",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli1844_rmkt_metodosfinanciacionprepre",
+    "formato": "CAROUSEL",
+    "texto": "Hola {{1}}, soy Alejandro, tu asesor Poli.\n \n Hoy quiero contarte algunas de las opciones que muchos de nuestros más de 56.000 estudiantes Poli usaron para financiar la matrícula 💰 de su carrera, y que tú 🫵🏼 también puedes solicitar:\n \n ✍🏽 Escríbeme y te cuento cómo tú también lo puedes hacer.",
+    "Boton 1": "Hablar con asesor",
+    "Boton 2": "NO Aplica",
+    "Área": "Admisiones",
+    "Temática": "Opciones de financiación",
+    "Top tema": "Financiación general"
+  },
+  {
+    "Plantillas": "poli739615_incentivocontactomememaximos",
+    "formato": "TEXT",
+    "texto": "🅿️ 🌍 Hola {{1}}, soy Angie del Poli, ¿cómo estás?\n \n Como Hansel y Gretel, te he ido mostrando el camino hacia tu próxima carrera profesional, 🎓 una en la que podrás construir país y un futuro, ya sea en Colombia o en el exterior. Es tu momento; cuentas con una U con más de 45 años de experiencia y diversas opciones de financiación para estudiar. 📚💸\n \n Puedes continuar tu proceso de matrícula, o también hablar conmigo; solo dime:",
+    "Boton 1": "Hablar con asesor",
+    "Boton 2": "NO Aplica",
+    "Área": "Admisiones",
+    "Temática": "Proceso de matrícula",
+    "Top tema": "Financiación general"
+  }
+]

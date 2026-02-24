@@ -1,0 +1,5 @@
+{
+  "name": "Template Explorer",
+  "description": "Plataforma dinámica para filtrar y explorar plantillas desde un archivo Excel.",
+  "requestFramePermissions": []
+}
